@@ -14,7 +14,7 @@ Fendi has immense aura.</p>
 <ol>
   <li>Playing Futsal</li>
   <li>Scrolling on social media</li>
-  <li>Listening to Music</li>
+  <li>Listening to Musicc</li>
   <li>Getting to know Christ even further</li>
 </ol>
 
