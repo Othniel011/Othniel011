@@ -9,9 +9,8 @@ Im Christian and Jesus is my Lord and Saviour✝️✝️. William
 Fendi has immense aura.</p>
 
 <h1>Elyon School Rules</h1>
-http://127.0.0.1:5500/index.html
-<br>
-<br>
+<p>http://127.0.0.1:5500/index.html<p>
+
 ![328296230_693736292231603_8096144301007056433_n-sixteen_nine](https://github.com/user-attachments/assets/c2d43eb6-6b74-43b8-a2de-4dabd732ea53)
 
 <h1>🎯My interests</h1>
